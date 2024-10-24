@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
  
 *** Variables ***
-# ${url_name}    https://taskboard.rspos.dev/login
+# ${url_name}    http://3.110.195.194:7091/
 ${url_name}    https://www.google.co.in
  
 *** Test Cases ***
